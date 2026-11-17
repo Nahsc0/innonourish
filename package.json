@@ -1,0 +1,1 @@
+{"name":"innonourish","version":"1.0.0","private":true,"type":"module","description":"InnoHealth nutrition action and financing prototype with synthetic aggregate data","scripts":{"start":"node server.mjs","test":"node --test tests/core.test.js","build":"node build.mjs"},"engines":{"node":">=20"}}
